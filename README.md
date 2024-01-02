@@ -67,4 +67,4 @@ Notes
 ------------------
 Almost all of the goals and development is subject to change; however, what I'm absolutely tied to is that I want this done with SQLite and Python. I may port this later on, but I want to test scalability and effectiveness in resource handling.
 
-Concept, art and code written by **[Steven Osborne](fjallravn@runbox.com)**
+Concept, art and code written by **[Steven Osborne](mailto:fjallravn@runbox.com)**
